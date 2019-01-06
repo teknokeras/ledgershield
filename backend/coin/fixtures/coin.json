@@ -1,0 +1,42 @@
+[
+  {
+    "model": "coin.Coin",
+    "pk": 1,
+    "fields": {
+      "name": "Bitcoin",
+      "symbol": "BTC"
+    }
+  },
+    {
+    "model": "coin.Coin",
+    "pk": 2,
+    "fields": {
+      "name": "Ethereum",
+      "symbol": "ETH"
+    }
+  },
+  {
+    "model": "coin.Coin",
+    "pk": 3,
+    "fields": {
+      "name": "Bitcoin Cash",
+      "symbol": "BCH"
+    }
+  },
+  {
+    "model": "coin.Coin",
+    "pk": 4,
+    "fields": {
+      "name": "Ripple",
+      "symbol": "XRP"
+    }
+  },
+  {
+    "model": "coin.Coin",
+    "pk": 5,
+    "fields": {
+      "name": "Monero",
+      "symbol": "XMR"
+    }
+  }
+]
