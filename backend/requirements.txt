@@ -21,7 +21,7 @@ django-celery-results==1.0.1
 django-cors-headers==2.4.0
 django-rest-swagger==2.2.0
 django-webpack-loader==0.6.0
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 djangorestframework-simplejwt==3.2.3
 gunicorn==19.9.0
 hiredis==0.2.0
